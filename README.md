@@ -1,6 +1,16 @@
-###  Oiii👋
+###  Xabuzinho, seu amiguinho, vamos programar?👋      S̸̛̰͔͈̬͔̺̙̼̳͐̔̍̋̓à̷̛̛̗̋̿́́̄̈̕͘̚͝ṙ̸̢̖̭͍̞̜͍̏̅̋͊͘á̷̠͒͋̉̍̒͗̀̽̇͠͠h̸̛̹̾̅̀̂ ̶͉͊́͋̎̋̀͐͘͝C̶̢̮̘̩̬̹̠͎͙̭̤̊͐̈́̈́̆̔̈̍̌̚̕͝ǫ̸̢̜̥̞̝͚̜̹͚̙̖̾̆ṅ̴̨̞͍͈͓̺̭̬̩͖̉̇̔̀̑͌̋ņ̴̯̖̘̆o̶͙̤͇͛r̴̼̘̬̹̈́͒̃̀̈̾̀͘͜?̶̘̫̘̪̖͙̣̃?̵̧̧̛̛͈̥̱͖̠͚̈́́͂̈̇͆̆͠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach us: ...
+
+Por aqui serão documentados todos os projetos de robótica da Xabu.
+Open-source, open-hardware, espalhando a palavra da robótica.
+
+
+p̸̫̎̾̂̐̽̈́ä̸͇̩̙͔̞͙͕̌̆͌̄̊̓̀͂ͅn̷̮̐́̆̋͂͂͐̋͝e̴͈̰̞̞̣̹̲͔̋͜ͅ ̵̡̨̛̰̰̇͛͌̑̈̋̔n̴̟̣̎̉́̓̄̏̽̾̒̚͜o̶̲̫̖͌ ̶̧̳̪͛͒̊͜s̷̺͎̓̉͗͘i̷̩͎̣̬̩̋̿̑̈́̊̽̈́̚͠ş̷̖̥̘͝͝t̴͇̎̋̓̀̄̉̒͘͝e̸͇͓̘͕͋̇̅̿m̵͚̟̩͉͙̮̬͉̤͐̓̏̓̍̈́͂̇̉͗ͅa̷̠͕̤̱̖̯̜̖͈͊̽͒ ̶̛͍͕̖̳à̶͍̻̫͕̻͗̓̋̋͆̉l̵͈͈̦̿̈́͛̒̈͠ǵ̴̡͙̤̱̙̦̗͒̊̓̊̓́̈́͋u̸͍̝͉̝̠̅̀͒͠ͅę̵̦̲͓̮͔͍̫͉̎͑͂̎m̸̢̘͓̥̗͈̞̭̆̐͂͌́ͅͅ ̷̨̲͙̥̯͗̇̄͌̚m̴̢͖͚͑̄̃̓͝͝ë̵́ͅ ̸̖͗ḑ̵̛̗̦̺̤̖̥̝͕͆̽̿̈̆̉́e̸̹̤͚̅̈́͐̓͊͝ͅs̷̻̞̬̏͑͌̉̀̀̓͗̇ḉ̴͖̠͎͈͐̃̿̏͘͠͝ͅǫ̶̨̗̹̱̹͇̥̃̇́͆̋͊̕͝n̷̥͚̘̞̓̅̆̒̈́̕f̸̫̦͔̦͒͐̈́̌̌̈́ỉ̷̧͚̓̈̚̕̕ǧ̷͕̪̼̣̫̃̕u̷̼͕͓̫̻̘͕̯͌͛̓̓̑̚͜͝r̸̡͍̥͕̔̐͑ö̷͍̭́͒̽u̶͖͈̰͔͈̔̀͘͜͜͠
+
+
+All Xabu robotics projects will be documented here.
+Open-source, open-hardware, spreading the word of robotics. 
+
+
+
+return 0;
