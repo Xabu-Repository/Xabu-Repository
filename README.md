@@ -1,9 +1,6 @@
 ###  Xabuzinho, seu amiguinho, vamos programar?👋      S̸̛̰͔͈̬͔̺̙̼̳͐̔̍̋̓à̷̛̛̗̋̿́́̄̈̕͘̚͝ṙ̸̢̖̭͍̞̜͍̏̅̋͊͘á̷̠͒͋̉̍̒͗̀̽̇͠͠h̸̛̹̾̅̀̂ ̶͉͊́͋̎̋̀͐͘͝C̶̢̮̘̩̬̹̠͎͙̭̤̊͐̈́̈́̆̔̈̍̌̚̕͝ǫ̸̢̜̥̞̝͚̜̹͚̙̖̾̆ṅ̴̨̞͍͈͓̺̭̬̩͖̉̇̔̀̑͌̋ņ̴̯̖̘̆o̶͙̤͇͛r̴̼̘̬̹̈́͒̃̀̈̾̀͘͜?̶̘̫̘̪̖͙̣̃?̵̧̧̛̛͈̥̱͖̠͚̈́́͂̈̇͆̆͠
 
-
-
-
-
+<br/>
 
 Por aqui serão documentados todos os projetos de robótica da Xabu.
 Open-source, open-hardware, espalhando a palavra da robótica.
